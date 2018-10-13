@@ -17,8 +17,8 @@ let ft;
 let ft_index=0;
 
 function preload(){
-	f1 = loadImage("./f1.jpg")
-  f2 = loadImage("./f2.jpg")
+	f1 = loadImage("./f1.JPG")
+  f2 = loadImage("./f2.JPG")
 }
 
 function setup() {
